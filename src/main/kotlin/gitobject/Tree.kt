@@ -1,0 +1,4 @@
+package gitobject
+
+class Tree {
+}
